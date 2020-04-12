@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Tims
 landing-title: 'Hi, my name is Forty'
 description: null
 image: null
